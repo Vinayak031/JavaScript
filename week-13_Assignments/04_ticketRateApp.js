@@ -6,4 +6,4 @@ numberOfChilds = numberOfChilds * 100;
 numberOfAdults = numberOfAdults * 150;
 numberOfSeniours = numberOfSeniours * 120;
 
-console.log("The total ticket price : ",numberOfChilds+numberOfAdults+numberOfSeniours);
+console.log("The total ticket price : ", numberOfChilds + numberOfAdults + numberOfSeniours);
