@@ -1,5 +1,5 @@
 let totalValue = 2000;
-let discountPercentage = 30;
+let discountPercentage = 20;
 
 if(discountPercentage != 0){
     let mrp = (totalValue * discountPercentage) / 100;
